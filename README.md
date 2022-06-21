@@ -1,4 +1,4 @@
-### Olá Eu sou o Henrique Cruz 🖐️ 🚧
+### Olá Eu sou o Henrique Cruz! 🖐️ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-s-cruz)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](henriquehsc@outlook.com)
