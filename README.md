@@ -1,9 +1,6 @@
 ## Olá Eu sou o Henrique Cruz! 🖐️
 ### Seja bem vindo ao meu Github! 
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](henriquehsc@outlook.com)
-
-
 ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=rickhsc&show_icons=true&theme=tokyonight)
 
 ### Ferramentas e Tecnologias
